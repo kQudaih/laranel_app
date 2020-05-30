@@ -3,5 +3,5 @@
 
 @section('content')
     <h1>Welcom to about page</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, dolorem!</p>
+    <p>This is a blog dealing with the latest topics in various fields</p>
 @endsection
